@@ -69,6 +69,8 @@ function theme_slug_widgets_init() {
 
 //-------------------
 
+//test
+
 //Rejestracja widgetow:
 add_action( 'widgets_init', 'wpb_init_widgets' );
 function wpb_init_widgets($id){
