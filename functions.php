@@ -70,6 +70,8 @@ function theme_slug_widgets_init() {
 //-------------------
 
 //Rejestracja widgetow:
+
+//moja zmiana
 add_action( 'widgets_init', 'wpb_init_widgets' );
 function wpb_init_widgets($id){
      
